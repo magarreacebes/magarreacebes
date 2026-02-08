@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-garre-acebes/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magarreacebes)
 
+> 📊 **Check out my [Intelligence Reports Repository](https://magarreacebes.github.io/Intel_Reports/)** - Threat Intelligence Analysis & Security Research
+
 ## 🛡️ CyberSecurity Professional | Threat Hunter | Incident Responder
 
 Dedicated cybersecurity professional specializing in **Threat Hunting** and **Incident Response**. I focus on identifying advanced threats using enterprise-grade security platforms, with deep expertise in **Falcon CrowdStrike**, **Cortex XDR**, and **Microsoft Defender XDR**. My approach combines proactive threat detection with the **MITRE ATT&CK** framework to investigate malicious activities and protect critical infrastructure.
