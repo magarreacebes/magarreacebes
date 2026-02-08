@@ -128,7 +128,7 @@ Currently pursuing **Bachelor in Computer Science**, with focus on:
 
 I'm always open to collaborate on projects related to **cybersecurity**, **threat hunting**, **incident response**, and **security tool development**. Feel free to reach out if you want to collaborate or simply chat about information security.
 
-📧 **Email:** [tmagarreacebes@gmail.com](mailto:magarreacebes@gmail.com)  
+📧 **Email:** [magarreacebes@gmail.com](mailto:magarreacebes@gmail.com)  
 💼 **LinkedIn:** [Miguel Ángel Garre](https://www.linkedin.com/in/miguel-angel-garre-acebes/)  
 
 ---
